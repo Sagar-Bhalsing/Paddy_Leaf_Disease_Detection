@@ -15,4 +15,4 @@
 6. Saving the Model 
 ```
 
-### You can refer to the Notebook file above for deep insight into the project.
+### You can refer to the Jupyter Notebook  above for deep insight into the project.
