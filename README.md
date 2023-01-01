@@ -14,3 +14,5 @@
 5. Creating best suited CNN Model for the Dataset using trial and error method
 6. Saving the Model 
 ```
+
+### You can refer to the Notebook file above for deep insight of the project.
