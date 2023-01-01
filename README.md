@@ -1,2 +1,8 @@
-# Paddy_Leaf_Disease_Detection
-A Convolution Neural Network Model To Detect Different Types Of Paddy Diseases.
+# Paddy Leaf Disease Detection
+##A Convolution Neural Network Model To Detect Different Types Of Paddy Diseases.
+###Paddy, the raw grain before removal of husk, gets affected by several diseases & pests which leads to loss of the yields by up-to 70%.
+
+So it’s very important to identify the disease during the initial stages.
+
+I am implementing paddy disease detection technique using CNN algorithm, so that we can detect and cure the paddy disease before it completely destroys the grain.
+
