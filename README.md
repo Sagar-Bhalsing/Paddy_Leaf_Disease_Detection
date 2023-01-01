@@ -7,7 +7,11 @@
 
 ### Flow of project:
 ```
-e
-e
-e
+Data Collection
+Data Preprocessing:
+```
+Splitting data into Train, Test & Validation
+Data augmentation
+Reshaping Images
+```
 ```
