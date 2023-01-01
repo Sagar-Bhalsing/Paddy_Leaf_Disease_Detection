@@ -5,3 +5,9 @@
 ### I am implementing paddy disease detection technique using CNN algorithm, so that we can detect and cure the paddy disease before it completely destroys the grain.
 ### The Dataset for this project is downloaded from [Kaggle](https://www.kaggle.com/competitions/paddy-disease-classification)
 
+### Flow of project:
+```
+e
+e
+e
+```
