@@ -7,10 +7,10 @@
 
 ### Flow of project:
 ```
-> Data Collection
-> Splitting data into Train, Test & Validation
-> Data augmentation
-> Reshaping Images
-> Creating best suited CNN Model for the Dataset using trial and error method
-> Saving the Model 
+1. Data Collection
+2. Splitting data into Train, Test & Validation
+3. Data augmentation
+4. Reshaping Images
+5. Creating best suited CNN Model for the Dataset using trial and error method
+6. Saving the Model 
 ```
